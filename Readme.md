@@ -22,4 +22,4 @@ This project involves analyzing sales data during the festival season, particula
 - **Git** for version control
 
 ## Outcome
-This project demonstrates expertise in **data analysis, statistical evaluation, and business intelligence** by leveraging Python libraries to derive actionable insights. The structured approach to data cleaning, visualization, and interpretation makes it a strong portfolio project for resume enhancement.
+This project demonstrates expertise in **data analysis, statistical evaluation, and business intelligence** by leveraging Python libraries to derive actionable insights. 
